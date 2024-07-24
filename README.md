@@ -1,1 +1,1 @@
-# Multi-Class-Obesity-Risk-Prediction-Using-Machine-Learning
+Multi-Class-Prediction-of-Obesity-Risk
